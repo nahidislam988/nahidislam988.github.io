@@ -11,7 +11,7 @@ publishDate: "2024-01-01T00:00:00Z"
 
 
 publication: "Vonage Developer Conference / Developer Blog"
-publication_short: "Vonage"
+
 
 abstract: This work explores advanced machine detection capabilities for outbound voice experiences, enabling businesses to improve call routing, customer engagement, voicemail detection, and overall communication efficiency through smarter voice intelligence systems.
 
