@@ -58,14 +58,12 @@ education:
   - degree: MSc Project Management
     institution: BPP University
     area: London, United Kingdom
-    start: 2019-09-01
-    end: 2021-05-31
+    
 
   - degree: BSc Computer Science
     institution: North South University
     area: Dhaka, Bangladesh
-    start: 2014-01-01
-    end: 2018-08-31
+   
 
 experience:
   - role: Staff Product Manager
