@@ -10,8 +10,7 @@ publishDate: "2024-01-02T00:00:00Z"
 
 
 
-publication: "Vonage Developer Blog"
-publication_short: "Vonage"
+
 
 abstract: This article explores how Enhanced Voice Inspector empowers developers to analyse call quality, identify issues faster, and improve communication platform performance through deeper voice analytics and diagnostics.
 
