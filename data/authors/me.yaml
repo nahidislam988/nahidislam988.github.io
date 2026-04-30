@@ -15,21 +15,17 @@ postnominals: []
 status:
   icon: "💼"
 
-role: Staff Product Manager
+role: Lead / Principal Product Manager
 
 bio: |
   Product leader with 10+ years of experience in technical product management
   and software engineering.
 
   Experienced in defining product strategy, roadmaps, and execution for
-  enterprise-scale platforms. Strong track record of delivering measurable
-  business outcomes across growth, cost optimisation, scalability, and
-  customer experience.
+  enterprise-scale platforms.
 
-  Expertise across SaaS, APIs, telecom platforms, cloud infrastructure,
-  digital transformation, and cross-functional leadership.
-
-location: London, United Kingdom
+organizations:
+  - name: London, United Kingdom
 
 affiliations:
   - name: Allstate
@@ -52,64 +48,27 @@ interests:
   - Cloud Infrastructure
   - APIs
   - AI Products
-  - Digital Transformation
 
 education:
   - degree: MSc Project Management
     institution: BPP University
-    area: London, United Kingdom
     
 
   - degree: BSc Computer Science
     institution: North South University
-    area: Dhaka, Bangladesh
-   
+    
 
 experience:
   - role: Staff Product Manager
     org: Allstate
     start: 2025-08-01
-    summary: |
-      Own product strategy, roadmap, and KPIs for enterprise virtual desktop
-      portfolio. Led platform migration, security improvements, and cost
-      optimisation initiatives.
 
   - role: Senior Product Manager
     org: Ericsson
     start: 2022-06-01
     end: 2025-07-31
-    summary: |
-      Managed Programmable Voice product portfolio. Delivered revenue growth,
-      launched self-service tools, diagnostics platforms, and fraud prevention
-      initiatives.
-
-  - role: Technical Product Manager
-    org: Arthur Online
-    start: 2021-09-01
-    end: 2022-05-31
-    summary: |
-      Led Mobile Apps and API roadmap. Improved adoption, reduced AWS costs,
-      lowered churn, and increased growth metrics.
-
-  - role: Technical Product Manager
-    org: TMSS
-    start: 2018-09-01
-    end: 2019-08-31
-    summary: |
-      Delivered internal digital products and launched mobile solutions used
-      by thousands of employees.
-
-  - role: Software Developer
-    org: Even Fly
-    start: 2015-04-01
-    end: 2017-06-30
-    summary: |
-      Developed and enhanced web applications, APIs, and scalable software
-      systems across global teams.
 
 awards:
   - title: Product Mentor
     awarder: ADPList
     date: "2024-01-01"
-    summary: Mentoring aspiring product managers in product strategy, interviews, and roadmap planning.
-    icon: hero/trophy
