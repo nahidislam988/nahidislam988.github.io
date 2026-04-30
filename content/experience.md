@@ -3,47 +3,36 @@ title: 'Experience'
 date: 2023-10-24
 type: landing
 
-design:
-  spacing: '5rem'
-
 sections:
-  - block: markdown
+  - block: features
     content:
       title: Experience
-      text: |
+      items:
 
-        ## Staff Product Manager — Allstate  
-        **August 2025 – Present**
+        - name: Staff Product Manager — Allstate
+          description: |
+            Aug 2025 – Present  
+            Own product strategy, roadmap, and KPIs for enterprise virtual desktop portfolio.
 
-        Own product strategy, roadmap, and KPIs for enterprise virtual desktop portfolio. Led platform migration, security improvements, and cost optimisation initiatives.
+        - name: Senior Product Manager — Ericsson
+          description: |
+            Jun 2022 – Jul 2025  
+            Managed Programmable Voice product portfolio and delivered revenue growth.
 
-        ---
+        - name: Technical Product Manager — Arthur Online
+          description: |
+            Sep 2021 – May 2022  
+            Led Mobile Apps and API roadmap. Reduced AWS costs.
 
-        ## Senior Product Manager — Ericsson  
-        **June 2022 – July 2025**
+        - name: Technical Product Manager — TMSS
+          description: |
+            Sep 2018 – Aug 2019  
+            Delivered internal digital products used by thousands.
 
-        Managed Programmable Voice product portfolio. Delivered revenue growth, launched self-service tools, diagnostics platforms, and fraud prevention initiatives.
-
-        ---
-
-        ## Technical Product Manager — Arthur Online  
-        **September 2021 – May 2022**
-
-        Led Mobile Apps and API roadmap. Improved adoption, reduced AWS costs, lowered churn, and increased growth metrics.
-
-        ---
-
-        ## Technical Product Manager — TMSS  
-        **September 2018 – August 2019**
-
-        Delivered internal digital products and launched mobile solutions used by thousands of employees.
-
-        ---
-
-        ## Software Developer — Even Fly  
-        **April 2015 – June 2017**
-
-        Developed and enhanced web applications, APIs, and scalable software systems across global teams.
+        - name: Software Developer — Even Fly
+          description: |
+            Apr 2015 – Jun 2017  
+            Developed web apps, APIs, and scalable systems.
 
   - block: resume-awards
     content:
